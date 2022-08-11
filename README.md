@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Korrokas
-- 👀 I’m interested in accounting, guitar, tech, and coding!
+- 👋 Hi, I’m Brandon Kounse!
+- 👀 I’m interested in guitar, gaming, and coding!
 - 🌱 I’m currently learning The Odin Project.
 <!---
 Korrokas/Korrokas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
