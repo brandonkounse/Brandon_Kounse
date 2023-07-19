@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Kounse!
-- :computer: I’m studying to become a full stack web developer.
+- :computer: Working with computers and creating software is a passion.
 - :guitar: I love playing guitar and recording music!
 - :video_game: Creating memories with my friends online is sentimental.
 <!---
